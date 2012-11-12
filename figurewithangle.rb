@@ -13,9 +13,3 @@ class FigureWithAngle
   end
 
 end
-
-
-f = FigureWithAngle.new([10, 20, 10, 20])
-
-puts f.area
-puts f.perimeter
