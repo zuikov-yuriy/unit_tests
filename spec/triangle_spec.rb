@@ -1,8 +1,10 @@
+require '../figurewithangle'
 require 'spec_helper'
+
 
 describe Triangle do
 
-  let(:t) { Triangle.new([15,20,15]) }
+  let(:t) { Triangle.new([15,20,15])}
 
   describe "#initialize" do
     it "should be initialized as Triangle" do
