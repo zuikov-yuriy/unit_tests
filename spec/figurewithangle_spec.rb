@@ -6,7 +6,7 @@ describe FigureWithAngle do
 
     describe "#initialize" do
       it "should be initialized as figure" do
-        FigureWithAngle.new([10,20,10,20]).empty?.should be_true
+        FigureWithAngle.new([10,20,10,20]).should be_true
       end
     end
 
