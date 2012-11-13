@@ -1,3 +1,5 @@
+require '../trapeze'
+
 class Parallelogram < Trapeze
 
   def initialize(side)

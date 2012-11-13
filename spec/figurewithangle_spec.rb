@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+
 describe FigureWithAngle do
 
     let(:f) { FigureWithAngle.new([10,20,10,20]) }

@@ -1,3 +1,5 @@
+require '../figurewithangle'
+
 class Rectangle < FigureWithAngle
 
   def initialize(side)

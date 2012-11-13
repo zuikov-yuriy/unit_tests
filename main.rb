@@ -1,2 +1,4 @@
-require_relative 'figurewithangle'
-require_relative 'triangle'
+require '../figurewithangle'
+require '../trapeze'
+require '../parallelogram'
+require '../rhombus'

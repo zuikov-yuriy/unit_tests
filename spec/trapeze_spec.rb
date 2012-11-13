@@ -1,4 +1,3 @@
-require '../figurewithangle'
 require 'spec_helper'
 
 

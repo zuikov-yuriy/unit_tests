@@ -1,3 +1,4 @@
+require '../parallelogram'
 class Rhombus < Parallelogram
 
   def initialize(side)
@@ -5,7 +6,7 @@ class Rhombus < Parallelogram
   end
 
   def perimeter
-    @perimeter = 2 *
+    @perimeter = 4*@side[0]
   end
 
   def area

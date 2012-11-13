@@ -1,5 +1,3 @@
-require '../figurewithangle'
-require '../trapeze'
 require 'spec_helper'
 
 

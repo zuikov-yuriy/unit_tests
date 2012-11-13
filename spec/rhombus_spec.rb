@@ -1,6 +1,3 @@
-require '../figurewithangle'
-require '../trapeze'
-require '../parallelogram'
 require 'spec_helper'
 
 
