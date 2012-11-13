@@ -9,7 +9,7 @@ class FigureWithAngle
   end
 
   def perimeter
-    @side.inject {|sum, side| sum + side}
+    @side.inject {|perimeter, side| perimeter + side}
   end
 
 end
