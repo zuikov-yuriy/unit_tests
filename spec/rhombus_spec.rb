@@ -9,7 +9,7 @@ describe Rhombus do
   let(:p) { Rhombus.new([10,5])}
 
   describe "#initialize" do
-    it "should be initialized as Trapeze" do
+    it "should be initialized as Rhombus" do
       Rhombus.new([10,5]).should be_true
     end
   end

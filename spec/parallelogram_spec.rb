@@ -8,7 +8,7 @@ describe Parallelogram do
   let(:p) { Parallelogram.new([10,15,5])}
 
   describe "#initialize" do
-    it "should be initialized as Trapeze" do
+    it "should be initialized as Parallelogram" do
       Parallelogram.new([10,15,5]).should be_true
     end
   end

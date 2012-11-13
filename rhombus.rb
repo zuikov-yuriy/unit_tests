@@ -5,7 +5,7 @@ class Rhombus < Parallelogram
   end
 
   def perimeter
-    @perimeter = 4*@side[0]
+    @perimeter = 2 *
   end
 
   def area
