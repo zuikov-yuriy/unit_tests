@@ -11,4 +11,5 @@ class Parallelogram < Trapeze
   def area
     @area = @side[0]*@side[2]
   end
+
 end
